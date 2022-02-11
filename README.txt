@@ -1,1 +1,1 @@
-Basic React project: Monsters Rolodex
+Basic React project: Monsters Rolodex.
